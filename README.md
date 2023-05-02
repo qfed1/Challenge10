@@ -1,4 +1,4 @@
-#Challenge 10#
+## Challenge 10
 
 The cryptocurrency portfolio proposal leverages Python 3.10+ and utilizes the following project libraries and dependencies:
 
